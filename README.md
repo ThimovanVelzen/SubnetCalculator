@@ -30,9 +30,9 @@ IP amount: 512
 ```
 
 **SubnetMask** -> Same for all subnets\
-**Network Address** -> unqique indentifier for each subnet - first IP-Address in the subnet\
+**Network Address** -> unique indentifier for each subnet - first IP-Address in the subnet\
 **Broadcast Address** -> last IP-Address in the subnet\
-**First Router IP** -> Standard IP-Address for router in subnet - default gateway
-**First Host IP** -> First IP-Address allowed to give to a host
-**Last Host IP** -> Last IP-Address allowed to give to a host
-**IP amount** -> all the IP-Addresses in the subnet (included Network Address and Broadcast Address)
+**First Router IP** -> Standard IP-Address for router in subnet - default gateway\
+**First Host IP** -> First IP-Address allowed to give to a host\
+**Last Host IP** -> Last IP-Address allowed to give to a host\
+**IP amount** -> all the IP-Addresses in the subnet (included Network Address and Broadcast Address)\
