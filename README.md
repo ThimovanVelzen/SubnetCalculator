@@ -35,4 +35,4 @@ IP amount: 512
 **First Router IP** -> Standard IP-Address for router in subnet - default gateway\
 **First Host IP** -> First IP-Address allowed to give to a host\
 **Last Host IP** -> Last IP-Address allowed to give to a host\
-**IP amount** -> all the IP-Addresses in the subnet (included Network Address and Broadcast Address)\
+**IP amount** -> all the IP-Addresses in the subnet (included Network Address and Broadcast Address)
