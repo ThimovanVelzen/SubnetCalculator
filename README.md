@@ -7,7 +7,8 @@ Program will ask for a IP-range (prefix included)\
 
 ### Output
 
-Program will print several tables to the screen
+Program will print several tables to the screen\
+All result IP-Addresses will be showed both in dotted.decimal notion and in binary notation
 
 ```
 SUBNET 0             | DECIMAL              | BINARY 
